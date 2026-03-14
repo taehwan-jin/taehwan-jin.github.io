@@ -25,9 +25,9 @@ Designed a **200 Gbps (4 × 50 Gbps) PAM-4 CMOS optical transceiver IC** targeti
 - End-to-end transceiver architecture: **TX driver + RX TIA/LA**
 - **VCSEL driver** optimized for linear PAM-4 operation
 - Collaborated on VCSEL SPICE modeling for co-simulation with photonic devices
-- Results presented at **CLEO-PR 2024** and published in **IEEE PTL 2024**
+- Results presented at **CLEO-PR 2024**
 
 ### Related Publications
 
 - J.-S. Kim, K. Kim, **T. Jin**, P.-S. Han, W. Choi, "4 × 50 Gb/s 0.85 pJ/bit PAM-4 CMOS VCSEL Driver for Linear Pluggable Optics," *CLEO-PR 2024*.
-- K. Kim, J.-S. Kim, **T. Jin**, W. Choi, "A Large-Signal SPICE Model for VCSEL Based on Piece-Wise Linear RLC Elements," *IEEE PTL*, 2024.
+

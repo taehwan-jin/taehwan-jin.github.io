@@ -56,7 +56,7 @@ cv:
           - "200 Gbps/4-channel PAM4 CMOS optical transceiver IC (lead designer)"
           - "100 Gbps/4-channel NRZ SiGe BiCMOS optical transceiver IC"
           - "MIPI D/C-PHY SerDes IP development"
-          - "Published in CLEO-PR 2024 and IEEE PTL 2024"
+          - "Published in CLEO-PR 2024"
 
       - company: Samsung Electronics (System LSI)
         position: Senior Engineer (RF Front-End IC)
