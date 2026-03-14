@@ -1,10 +1,10 @@
 cv:
   name: Taehwan Jin
-  label: Analog/RF IC Design Engineer
+  label: Analog/RF/Optical front-end IC Design Engineer
   email: 83t.jin@gmail.com
-  location: Stockholm, Sweden
+  location: Seoul, South Korea
   image: ""
-  summary: Analog/RF IC Design Engineer with 11+ years of experience in high-speed optical transceivers, RF front-end ICs, and CMOS image sensors.
+  summary: Analog/RF/Optical front-end Design Engineer with 11+ years of experience in high-speed optical transceivers, and RF front-end ICs.
 
   social_networks:
     - network: X
@@ -15,42 +15,27 @@ cv:
   sections:
     Education:
       - institution: Yonsei University
-        location: Seoul, Korea
+        location: Seoul, South Korea
         url: https://www.yonsei.ac.kr/
         area: Electrical and Electronic Engineering
-        studyType: Ph.D.
-        start_date: 2008
-        end_date: 2015
+        studyType: Ph.D. (2015)
         highlights:
           - "Dissertation: IR-UWB CMOS Distance Sensor with Adaptive Time-of-Arrival Measurement"
           - "Advisor: Prof. Tae-Wook Kim"
-          - "Published in IEEE TCAS-I, IEEE TMTT, IEEE MWCL, IJCTA"
+          - "Published in IEEE TCAS-I, IEEE TMTT, IEEE MWCL, IEEE ISCAS, IJCTA, ICEIC"
 
       - institution: Kwangwoon University
-        location: Seoul, Korea
+        location: Seoul, South Korea
         url: https://www.kw.ac.kr/
         area: Electronic Engineering
-        studyType: B.S.
-        start_date: 2002
-        end_date: 2008
+        studyType: B.S. (2008)
 
     Experience:
-      - company: Nemesis Semiconductor
-        position: Principal Engineer (Analog IC Design)
-        location: Seoul, Korea
-        start_date: 2025
-        end_date: present
-        summary: Biosensing analog front-end IC startup
-        highlights:
-          - "PPG / ECG / Bioimpedance measurement AFE IC design (65nm TSMC)"
-          - "CMOS Image Sensor ROIC for capsule endoscopy (90nm SK Hynix)"
-          - "IC top-level integration and tape-out"
-
       - company: Qualitas Semiconductor
-        position: Principal Engineer (Optical Front-End IC)
-        location: Seoul, Korea
-        start_date: 2021
-        end_date: 2024
+        position: Principal Engineer (Optical Front-End IC, IP Development)
+        location: Seongnam-si, Gyeonggi-do, South Korea
+        start_date: Apr. 2021
+        end_date: Feb. 2025
         summary: High-speed optical transceiver IC development for data center interconnects
         highlights:
           - "200 Gbps/4-channel PAM4 CMOS optical transceiver IC (lead designer)"
@@ -59,28 +44,22 @@ cv:
           - "Published in CLEO-PR 2024"
 
       - company: Samsung Electronics (System LSI)
-        position: Senior Engineer (RF Front-End IC)
-        location: Hwaseong, Korea
-        start_date: 2015
-        end_date: 2021
-        summary: Mass-production RF front-end IC design for Galaxy smartphone series
+        position: Senior Engineer (RFIC)
+        location: Hwaseong-si, Gyeonggi-do, South Korea
+        start_date: Mar. 2015
+        end_date: Mar.2021
+        summary: Mass-production RFIC design
         highlights:
-          - "Galaxy S7 ~ S22 RF Front-End IC design (LNA, Mixer, TIA)"
-          - "Advanced FinFET CMOS processes: 14nm / 8nm / 5nm / 4nm"
+          - "Galaxy S7 ~ S22 RF Front-End receiver design (LNA, Mixer, TIA)"
+          - "Advanced CMOS processes: 28nm / 14nm FinFET"
           - "Multi-band inter/intra-band carrier aggregation receiver"
-          - "Published in IEEE RFIC 2017, ISCAS 2017, IEEE TMTT 2021"
+          - "Published in IEEE RFIC 2017, IEEE TMTT 2021"
 
     Patents:
       - title: Registered Patents
-        authors:
-          - "Taehwan Jin et al."
-        date: 2015-2024
         summary: "5 registered patents (KR 3, US 2, EP 1, CN 1) — covering RF receiver architectures, LNA linearization, and optical transceiver circuits"
 
       - title: Filed Patents
-        authors:
-          - "Taehwan Jin et al."
-        date: 2015-2024
         summary: "18 total patent applications filed across Samsung Electronics and Qualitas Semiconductor"
 
     Skills:
