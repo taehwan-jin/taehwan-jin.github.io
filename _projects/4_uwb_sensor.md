@@ -1,14 +1,14 @@
 ---
 layout: page
 title: IR-UWB Distance Sensor
-description: IR-UWB CMOS distance sensor with adaptive ToA measurement (Ph.D. thesis)
+description: Time-of-Arrival Measurement Using Adaptive CMOS Impulse Radio UWB Range Finder with Scalable Resolution (Ph.D. dissertation)
 importance: 4
 category: Yonsei University
 ---
 
 ## Overview
 
-Developed an **IR-UWB (Impulse Radio Ultra-Wideband) CMOS distance sensor** as the core of my **Ph.D. dissertation** at Yonsei University (2008–2015). The system featured an adaptive time-of-arrival (ToA) measurement architecture with scalable resolution.
+Developed an **IR-UWB (Impulse Radio Ultra-Wideband) CMOS distance sensor** as the core of my **Ph.D. dissertation** at Yonsei University (2008–2015). The dissertation title is **"Time-of-Arrival Measurement Using Adaptive CMOS Impulse Radio UWB Range Finder with Scalable Resolution."** The system featured an adaptive time-of-arrival (ToA) measurement architecture with scalable resolution.
 
 ### Key Specifications
 
