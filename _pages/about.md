@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Analog/RF IC Design Engineer
+subtitle: Analog/RF/Optical Front-End IC Design Engineer
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: portrait.jpg
   image_circular: false
   more_info: >
-    <p>Stockholm, Sweden</p>
+    <p>Seongnam, Gyeonggi-do, South Korea</p>
     <p>83t.jin@gmail.com</p>
 
 selected_papers: true
@@ -24,7 +24,7 @@ latest_posts:
   enabled: false
 ---
 
-I am an **Analog/RF IC Design Engineer** with **11+ years** of industry experience in high-speed optical transceivers, RF front-end ICs, and CMOS image sensors.
+I am an **Analog/RF/Optical Front-End IC Design Engineer** with **11+ years** of industry experience in high-speed optical transceivers and RF front-end circuits.
 
 I received my **Ph.D.** from **Yonsei University** (Seoul, Korea) in 2015, where I developed an **IR-UWB CMOS distance sensor** with adaptive time-of-arrival measurement. My research was published in IEEE TCAS-I and IEEE TMTT.
 
