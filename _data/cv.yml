@@ -32,28 +32,40 @@ cv:
 
     Experience:
       - company: Qualitas Semiconductor
-        position: Principal Engineer (Optical Front-End IC, IP Development)
-        location: Seongnam-si, Gyeonggi-do, South Korea
+        position: Principal Engineer (IP Development)
+        location: Seongnam, South Korea
+        start_date: Jan. 2025
+        end_date: present
+        summary: MIPI D/C-PHY IP development and Taskforce leadership
+        highlights:
+          - "Led MIPI Taskforce and orchestrated cross-functional team initiatives"
+          - "Established Analog-Mixed Signal simulation environment and verified test vectors"
+          - "Designed analog circuits including T-coils and DC reference voltage cleaners"
+
+      - company: Qualitas Semiconductor
+        position: Principal Engineer (Optical Interconnect)
+        location: Seongnam, South Korea
         start_date: Apr. 2021
-        end_date: Feb. 2025
+        end_date: Jan. 2025
         summary: High-speed optical transceiver IC development for data center interconnects
         highlights:
-          - "200 Gbps/4-channel PAM4 CMOS optical transceiver IC (lead designer)"
-          - "100 Gbps/4-channel NRZ SiGe BiCMOS optical transceiver IC"
-          - "MIPI D/C-PHY SerDes IP development"
-          - "Published in CLEO-PR 2024"
+          - "Led OFE IC Design group and coordinated across layout, packaging, and digital design"
+          - "Developed high-speed optical transceiver ICs (VCSEL driver, TIA)"
+          - "QSOD250x (Engineering Sample): 100 Gbps/4-ch NRZ SiGe BiCMOS Optical FE IC"
+          - "IOET050x (Gov-funded R&D): 200 Gbps/4-ch PAM4 CMOS Optical FE IC (lead designer)"
+          - "Conducted optical link budget analysis for system-level performance compliance"
 
       - company: Samsung Electronics (System LSI)
-        position: Senior Engineer (RFIC)
-        location: Hwaseong-si, Gyeonggi-do, South Korea
+        position: Senior Engineer (RF Development)
+        location: Hwaseong, South Korea
         start_date: Mar. 2015
-        end_date: Mar.2021
-        summary: Mass-production RFIC design
+        end_date: Mar. 2021
+        summary: Mass-production RF front-end IC design for flagship Galaxy smartphones
         highlights:
-          - "Galaxy S7 ~ S22 RF Front-End receiver design (LNA, Mixer, TIA)"
-          - "Advanced CMOS processes: 28nm / 14nm FinFET"
-          - "Multi-band inter/intra-band carrier aggregation receiver"
-          - "Published in IEEE RFIC 2017, IEEE TMTT 2021"
+          - "Designed RF front-end receiver circuits (LNA, Mixer, TIA) for Galaxy S7 ~ S22"
+          - "Served as designer for cellular receiver IP top and front-end sub-blocks"
+          - "Proficient in advanced CMOS processes: 28nm / 14nm FinFET"
+          - "Published in IEEE RFIC 2017, ISCAS 2017, IEEE TMTT 2021"
 
     Patents:
       - title: Registered Patents
