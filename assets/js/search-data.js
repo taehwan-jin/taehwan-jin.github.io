@@ -460,7 +460,7 @@ ninja.data = [{
               window.location.href = "/projects/3_samsung_rfic/";
             },},{id: "projects-ir-uwb-distance-sensor",
           title: 'IR-UWB Distance Sensor',
-          description: "IR-UWB CMOS distance sensor with adaptive ToA measurement (Ph.D. thesis)",
+          description: "Time-of-Arrival Measurement Using Adaptive CMOS Impulse Radio UWB Range Finder with Scalable Resolution (Ph.D. dissertation)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_uwb_sensor/";
             },},{id: "teachings-data-science-fundamentals",
