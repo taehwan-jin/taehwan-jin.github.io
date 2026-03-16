@@ -2,7 +2,7 @@
 layout: page
 permalink: /patents/
 title: patents
-description: 5 registered patents out of 18 filed applications
+description: 5 patents granted from 18 applications filed
 nav: true
 nav_order: 3
 ---
