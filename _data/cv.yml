@@ -94,7 +94,7 @@ cv:
       - name: Semiconductor Processes
         level: Expert
         icon: fa-solid fa-industry
-        keywords: "Samsung Foundry 28nm/14nm/8nm/5nm/4nm FinFET & 2nm GAAFET, Tower Semiconductor SiGe BiCMOS 180nm, TSMC 65nm, SK Hynix 90nm CIS"
+        keywords: "Samsung Foundry 28nm/14nm/8nm/5nm/4nm FinFET & 2nm GAAFET, Tower Semiconductor SiGe BiCMOS 180nm"
 
       - name: Measurement & Lab
         level: Expert
