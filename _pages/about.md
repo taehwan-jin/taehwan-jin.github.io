@@ -30,6 +30,6 @@ I received my **Ph.D.** from **Yonsei University** (Seoul, Korea) in 2015, where
 
 After my Ph.D., I joined **Samsung Electronics (S.LSI)** and spent six years designing **RF front-end ICs** (LNA, Mixer, TIA) for the **Galaxy S7 through S22** smartphone series using advanced FinFET CMOS processes (28nm / 14nm FinFET).
 
-In 2021, I moved to **Qualitas Semiconductor**, where I led the development of a **200 Gbps/4-channel PAM4 CMOS optical transceiver IC** (14nm FinFET) and a **100 Gbps/4-channel NRZ SiGe BiCMOS optical transceiver IC** (180nm SiGe BiCMOS) for DP/HDMI. Additionally, as the **MIPI Task Force Leader**, I managed cross-functional groups for **C-PHY/D-PHY IP design services** (spanning 14nm FinFET to 2nm GAAFET), overseeing work allocation and project scheduling.
+In 2021, I moved to **Qualitas Semiconductor**, where I led the development of a **200 Gbps/4-channel PAM4 CMOS optical transceiver IC** (14nm FinFET) for data center interconnects and a **100 Gbps/4-channel NRZ SiGe BiCMOS optical transceiver IC** (180nm SiGe BiCMOS) for DP/HDMI. Additionally, as the **MIPI Task Force Leader**, I managed cross-functional groups for **C-PHY/D-PHY IP design services** (spanning 14nm FinFET to 2nm GAAFET), overseeing work allocation and project scheduling.
 
 **Research Interests:** High-speed optical front-end, RF/analog IC design, low-noise amplifiers, CMOS image sensors.
