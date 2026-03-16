@@ -10,8 +10,58 @@ horizontal: false
 ---
 
 <div class="projects">
-  <p style="text-align: center; font-size: 1.5rem; margin-top: 3rem; color: var(--global-text-color-light);">
-    <strong>Coming Soon</strong><br>
-    <span style="font-size: 1rem;">Content is currently under preparation. Stay tuned!</span>
-  </p>
+
+### 2025
+- **Qualitas Semiconductor / IP Development Team**
+  - Led MIPI TF; Verified test vectors using Analog-Mixed Signal simulation
+  - MIPI D/C-PHY IP design service for MP; MPW for IP development
+  - *Process:* 14nm, 8nm, 5nm, 4nm FinFET, 2nm GAAFET
+  - *Customers:* Ambarella, Visionnext, Telechips, Axis, etc.
+- **HS AFE / Multi-Standard SerDes**
+  - Designed T-coils for HS AFE; DC reference voltage cleaning circuits
+  - *Process:* Samsung Foundry 4nm FinFET CMOS (SF4)
+
+### 2021–2024
+- **Qualitas Semiconductor / Optical Interconnect Team**
+  - Led OFE IC Design group; verified IC top and designed high-speed TIA IC
+- **QSOD250x (Engineering Sample)**
+  - 100 Gbps/4-Channel NRZ SiGe BiCMOS Optical Front-End Transceiver ICs
+  - *Application:* Active Optical Cable for HDMI/DisplayPort combo solutions
+  - *Process:* Tower Semiconductor, SiGe BiCMOS 180nm
+- **IOET050x (Government-funded R&D Project)**
+  - 200 Gbps/4-Channel PAM4 CMOS Optical Front-End Transceiver ICs
+  - *Application:* Active Optical Cable for data center
+  - *Process:* 14nm FinFET CMOS (SF_LN14LPU)
+
+### 2020
+- **SEC(S.LSI) / Mixed Signal Circuit Design Team**
+  - Designed mid- and high-band LNA for **S5520** (Galaxy S22)
+  - *Process:* 14nm FinFET CMOS RF
+
+### 2019
+- **SEC(S.LSI) / Mixed Signal Circuit Design Team**
+  - Designed loopback circuit for IIP2 calibration for **S5500** (Galaxy S10)
+  - *Process:* 14nm FinFET CMOS RF
+
+### 2018
+- **SEC(S.LSI) / Infra Design Team**
+  - Senior Designer for receiver IP top; Designed low-band LNA for **S938** (Galaxy Tab S6 Lite)
+  - *Process:* 28nm CMOS RF
+
+### 2017
+- **SEC(S.LSI) / RF Development Team**
+  - Designed ultra-high-band LNA for **S965** (Galaxy S9)
+  - *Process:* 14nm FinFET CMOS RF
+
+### 2016
+- **SEC(S.LSI) / RF Development Team**
+  - Designed down-conversion mixer and baseband TIA for **S955** (Galaxy S8 plus)
+  - *Process:* 14nm FinFET CMOS RF
+
+### 2015
+- **SEC(S.LSI) / RF Development Team**
+  - Designed low-band balun for **S935** (Galaxy S7)
+  - Designed active balun LNA for GNSS/Glonas for **S955** (Galaxy S8 plus)
+  - *Process:* 14nm/28nm CMOS RF
+
 </div>
