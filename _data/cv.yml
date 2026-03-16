@@ -69,7 +69,7 @@ cv:
 
     Patents:
       - title: Registered Patents
-        summary: "5 registered patents (KR 3, US 2, EP 1, CN 1) — covering RF receiver architectures, LNA linearization, and optical transceiver circuits"
+        summary: "5 registered patents (KR 4, US 2, EP 1, CN 1) — covering RF receiver architectures, LNA linearization, and optical transceiver circuits"
 
       - title: Filed Patents
         summary: "18 total patent applications filed across Samsung Electronics and Qualitas Semiconductor"
@@ -78,17 +78,22 @@ cv:
       - name: EDA Tools
         level: Expert
         icon: fa-solid fa-microchip
-        keywords: "Cadence Virtuoso, Cadence Spectre, Keysight ADS, Synopsys PrimeSim HSPICE, EMX (EM simulator)"
+        keywords: "Cadence Virtuoso/Spectre, ADS/Momentum, FINESIM, Hspice, StarRC, PEX, Primesim, VCS, EMX/EMXD, PADS"
+
+      - name: Design & Process Verification
+        level: Expert
+        icon: fa-solid fa-list-check
+        keywords: "DRC, LVS, TOTEM, PERC, BCRSIM"
 
       - name: Semiconductor Processes
         level: Expert
         icon: fa-solid fa-industry
-        keywords: "Samsung Foundry 28/14/8/5/4nm FinFET, GlobalFoundries SiGe BiCMOS 130/180nm, TSMC 65nm, SK Hynix 90nm CIS"
+        keywords: "Samsung Foundry 28nm/14nm/8nm/5nm/4nm FinFET & 2nm GAAFET, GlobalFoundries SiGe BiCMOS 130nm/180nm, TSMC 65nm, SK Hynix 90nm CIS"
 
       - name: Measurement & Lab
         level: Expert
         icon: fa-solid fa-flask
-        keywords: "VNA, NFA, Spectrum Analyzer, VSA, High-speed Oscilloscope, Probe Station, BER Tester"
+        keywords: "VNA, NFA, Spectrum Analyzer, VSA, Logic Analyzer, High-speed Oscilloscope, Signal Generator, Probe Station"
 
     Languages:
       - name: Korean
