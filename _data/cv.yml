@@ -18,7 +18,8 @@ cv:
         location: Seoul, South Korea
         url: https://www.yonsei.ac.kr/
         area: Electrical and Electronic Engineering
-        studyType: Ph.D. (2015)
+        studyType: Ph.D.
+        end_date: 2015
         highlights:
           - "Dissertation: Time-of-Arrival Measurement Using Adaptive CMOS Impulse Radio UWB Range Finder with Scalable Resolution"
           - "Advisor: Prof. Tae-Wook Kim"
@@ -28,7 +29,8 @@ cv:
         location: Seoul, South Korea
         url: https://www.kw.ac.kr/
         area: Electronic Engineering
-        studyType: B.S. (2008)
+        studyType: B.S.
+        end_date: 2008
 
     Experience:
       - company: Qualitas Semiconductor
