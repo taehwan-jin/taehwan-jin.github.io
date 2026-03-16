@@ -14,7 +14,6 @@ layout: default
         {{ site.title }}
       {% endif %}
     </h1>
-    <p class="desc">{{ page.subtitle }}</p>
   </header>
 
   <article>
@@ -79,5 +78,7 @@ layout: default
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
+
+    <p class="desc">{{ page.subtitle }}</p>
   </article>
 </div>
