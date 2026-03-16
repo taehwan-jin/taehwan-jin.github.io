@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-patents",
           title: "patents",
-          description: "5 registered patents out of 18 filed applications",
+          description: "5 patents granted from 18 applications filed",
           section: "Navigation",
           handler: () => {
             window.location.href = "/patents/";
