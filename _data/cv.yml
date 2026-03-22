@@ -51,10 +51,10 @@ cv:
         end_date: Jan. 2025
         summary: Led high-speed optical transceiver IC development as a part leader and lead designer
         highlights:
-          - "Led OFE IC Design group and coordinated across layout, packaging, and digital design"
+          - "Led Optical Front-End IC Design group and coordinated across layout, packaging, and digital design"
           - "Developed high-speed optical transceiver ICs (VCSEL driver, TIA)"
-          - "QSOD250x (Engineering Sample): 100 Gbps/4-ch NRZ SiGe BiCMOS Optical FE IC"
-          - "IOET050x (Gov-funded R&D): 200 Gbps/4-ch PAM4 CMOS Optical FE IC (lead designer)"
+          - "QSOD250x (Engineering Sample): 100 Gbps/4-ch NRZ SiGe BiCMOS Optical Front-End IC"
+          - "IOET050x (Gov-funded R&D): 200 Gbps/4-ch PAM4 CMOS Optical Front-End IC (lead designer)"
           - "Conducted optical link budget analysis for system-level performance compliance"
 
       - company: Samsung Electronics (System LSI)

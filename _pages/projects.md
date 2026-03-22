@@ -24,7 +24,7 @@ horizontal: false
 
 ### 2021–2024
 - **Qualitas Semiconductor / Optical Interconnect Team**
-  - Led OFE IC Design group; verified IC top and designed high-speed TIA IC
+  - Led Optical Front-End IC Design group; verified IC top and designed high-speed TIA IC
 - **QSOD250x (Engineering Sample)**
   - 100 Gbps/4-Channel NRZ SiGe BiCMOS Optical Front-End Transceiver ICs
   - *Application:* Active Optical Cable for HDMI/DisplayPort combo solutions
