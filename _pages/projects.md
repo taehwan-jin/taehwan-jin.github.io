@@ -12,12 +12,15 @@ horizontal: false
 
 ### 2025
 - **Qualitas Semiconductor / IP Development Team**
-  - Led MIPI TF; Verified test vectors using Analog-Mixed Signal simulation
-  - MIPI D/C-PHY IP design service for MP; MPW for IP development
-  - *Process:* 14nm, 8nm, 5nm, 4nm FinFET, 2nm GAAFET
-  - *Customers:* Ambarella, Visionnext, Telechips, Axis, etc.
+  - **MIPI Taskforce Leader**
+    - Managed MIPI D/C-PHY IP design service tasks, orchestrating schedule and task allocation
+    - Conducted Analog-Mixed Signal simulation for test vector verification
+    - Developed Qualitas's own licensing IP via MPW
+    - *Process:* 14nm, 8nm, 5nm, 4nm FinFET, 2nm GAAFET
+    - *Customers:* Ambarella, Visionnext, KeelinMicro, HHXmicro, Telechips, Axis, etc.
   - **High speed analog front-end / Multi-Standard SerDes**
-    - Designed T-coils for High speed analog front-end; DC reference voltage cleaning circuits
+    - Designed T-coils for Input/Output matching in high-speed AFE
+    - Designed DC reference voltage cleaning circuits for Current-Controlled Oscillators (CCO)
     - *Process:* Samsung Foundry 4nm FinFET CMOS (SF4)
 
 <br>
