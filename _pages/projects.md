@@ -16,23 +16,23 @@ horizontal: false
   - MIPI D/C-PHY IP design service for MP; MPW for IP development
   - *Process:* 14nm, 8nm, 5nm, 4nm FinFET, 2nm GAAFET
   - *Customers:* Ambarella, Visionnext, Telechips, Axis, etc.
-- **High speed analog front-end / Multi-Standard SerDes**
-  - Designed T-coils for High speed analog front-end; DC reference voltage cleaning circuits
-  - *Process:* Samsung Foundry 4nm FinFET CMOS (SF4)
+  - **High speed analog front-end / Multi-Standard SerDes**
+    - Designed T-coils for High speed analog front-end; DC reference voltage cleaning circuits
+    - *Process:* Samsung Foundry 4nm FinFET CMOS (SF4)
 
 <br>
 
 ### 2021–2024
 - **Qualitas Semiconductor / Optical Interconnect Team**
   - Led Optical Front-End IC Design group; verified IC top and designed high-speed TIA IC
-- **QSOD250x (Engineering Sample)**
-  - 100 Gbps/4-Channel NRZ SiGe BiCMOS Optical Front-End Transceiver ICs
-  - *Application:* Active Optical Cable for HDMI/DisplayPort combo solutions
-  - *Process:* Tower Semiconductor, SiGe BiCMOS 180nm
-- **IOET050x (Government-funded R&D Project)**
-  - 200 Gbps/4-Channel PAM4 CMOS Optical Front-End Transceiver ICs
-  - *Application:* Active Optical Cable for data center
-  - *Process:* 14nm FinFET CMOS (SF_LN14LPU)
+  - **QSOD250x (Engineering Sample)**
+    - 100 Gbps/4-Channel NRZ SiGe BiCMOS Optical Front-End Transceiver ICs
+    - *Application:* Active Optical Cable for HDMI/DisplayPort combo solutions
+    - *Process:* Tower Semiconductor, SiGe BiCMOS 180nm
+  - **IOET050x (Government-funded R&D Project)**
+    - 200 Gbps/4-Channel PAM4 CMOS Optical Front-End Transceiver ICs
+    - *Application:* Active Optical Cable for data center
+    - *Process:* 14nm FinFET CMOS (SF_LN14LPU)
 
 <br>
 
