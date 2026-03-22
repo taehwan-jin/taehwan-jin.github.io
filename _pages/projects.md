@@ -37,42 +37,42 @@ horizontal: false
 <br>
 
 ### 2020
-- **SEC(S.LSI) / Mixed Signal Circuit Design Team**
+- **Samsung Electronics Co. (S.LSI) / Mixed Signal Circuit Design Team**
   - Designed mid- and high-band LNA for **S5520** (Galaxy S22)
   - *Process:* 14nm FinFET CMOS RF
 
 <br>
 
 ### 2019
-- **SEC(S.LSI) / Mixed Signal Circuit Design Team**
+- **Samsung Electronics Co. (S.LSI) / Mixed Signal Circuit Design Team**
   - Designed loopback circuit for IIP2 calibration for **S5500** (Galaxy S10)
   - *Process:* 14nm FinFET CMOS RF
 
 <br>
 
 ### 2018
-- **SEC(S.LSI) / Infra Design Team**
+- **Samsung Electronics Co. (S.LSI) / Infra Design Team**
   - Senior Designer for receiver IP top; Designed low-band LNA for **S938** (Galaxy Tab S6 Lite)
   - *Process:* 28nm CMOS RF
 
 <br>
 
 ### 2017
-- **SEC(S.LSI) / RF Development Team**
+- **Samsung Electronics Co. (S.LSI) / RF Development Team**
   - Designed ultra-high-band LNA for **S965** (Galaxy S9)
   - *Process:* 14nm FinFET CMOS RF
 
 <br>
 
 ### 2016
-- **SEC(S.LSI) / RF Development Team**
+- **Samsung Electronics Co. (S.LSI) / RF Development Team**
   - Designed down-conversion mixer and baseband TIA for **S955** (Galaxy S8 plus)
   - *Process:* 14nm FinFET CMOS RF
 
 <br>
 
 ### 2015
-- **SEC(S.LSI) / RF Development Team**
+- **Samsung Electronics Co. (S.LSI) / RF Development Team**
   - Designed low-band balun for **S935** (Galaxy S7)
   - Designed active balun LNA for GNSS/Glonas for **S955** (Galaxy S8 plus)
   - *Process:* 14nm/28nm CMOS RF
