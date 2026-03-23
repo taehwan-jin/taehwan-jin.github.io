@@ -85,7 +85,14 @@
               {% endfor %}
               {% for item in entry.highlights %}
                 <li>
-                  <span class="item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                  {% if item.url %}
+                    <span class="item">
+                      {{ item.title | default: item }}
+                      <a href="{{ item.url | relative_url }}" target="_blank" class="btn-remote btn-sm p-1 ml-1" style="border: 1px solid #78022a; color: #78022a; border-radius: 4px; font-size: 0.7rem; text-transform: none;">PDF</a>
+                    </span>
+                  {% else %}
+                    <span class="item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                  {% endif %}
                 </li>
               {% endfor %}
             </ul>

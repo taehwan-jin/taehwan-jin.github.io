@@ -21,7 +21,7 @@ cv:
         studyType: Ph.D.
         end_date: 2015
         highlights:
-          - "Dissertation: Time-of-Arrival Measurement Using Adaptive CMOS Impulse Radio UWB Range Finder with Scalable Resolution"
+          - title: "Dissertation: Time-of-Arrival Measurement Using Adaptive CMOS Impulse Radio UWB Range Finder with Scalable Resolution"
             url: /assets/pdf/Taehwan_Jin_PhD_Dissertation.pdf
           - "Advisor: Prof. Tae-Wook Kim"
           - "Published in IEEE TCAS-I, IEEE TMTT, IEEE MWCL, IEEE ISCAS, IJCTA, ICEIC"
