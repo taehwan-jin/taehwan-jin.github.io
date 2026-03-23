@@ -15,7 +15,7 @@ nav_order: 3
 
 <br>
 
-2. **KR 10-2540949 (2023.06.01)**  
+2. **KR 10-2540949 (2023.06.01) / US 11671292 B2 (2023.06.06)**  
    *A signal processing circuit improving linearity of pulse amplitude modulated signal and communication device including the circuit*  
    **Tae-Hwan Jin**, Jae-Young Kim, Du-Ho Kim  
    Qualitas Semiconductor
