@@ -24,7 +24,6 @@ cv:
           - title: "Dissertation: Time-of-Arrival Measurement Using Adaptive CMOS Impulse Radio UWB Range Finder with Scalable Resolution"
             url: /assets/pdf/Taehwan_Jin_PhD_Dissertation.pdf
           - "Advisor: Prof. Tae-Wook Kim"
-          - "Published in IEEE TCAS-I, IEEE TMTT, IEEE MWCL, IEEE ISCAS, IJCTA, ICEIC"
           - |
             Visiting Scientist, IHP Microelectronics, Frankfurt (Oder), Germany (Nov. 2011 – Mar. 2012)
               - Overseas Exchange Scholar Program
@@ -72,7 +71,6 @@ cv:
           - "Designed RF front-end receiver circuits (LNA, Mixer, TIA) for Galaxy S7 ~ S22"
           - "Served as designer for cellular receiver IP top and front-end sub-blocks"
           - "Proficient in advanced CMOS processes: 28nm / 14nm FinFET"
-          - "Published in IEEE RFIC 2017, ISCAS 2017, IEEE TMTT 2021"
 
     Skills:
       - name: EDA Tools
