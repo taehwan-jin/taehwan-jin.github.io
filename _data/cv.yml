@@ -25,11 +25,9 @@ cv:
             url: /assets/pdf/Taehwan_Jin_PhD_Dissertation.pdf
           - "Advisor: Prof. Tae-Wook Kim"
           - "Published in IEEE TCAS-I, IEEE TMTT, IEEE MWCL, IEEE ISCAS, IJCTA, ICEIC"
-          - title: "Visiting Scientist, IHP Microelectronics, Frankfurt (Oder), Germany (Nov. 2011 – Mar. 2012)"
-            items:
-              - "Overseas Exchange Scholar Program"
-              - "Investigated impulse-radio ultra-wideband systems for indoor localization applications"
-              - "Designed highly optimized on-chip transformers for wideband input matching of UWB receiver using 0.25-μm SiGe BiCMOS technology"
+          - "**Visiting Scientist, IHP Microelectronics, Frankfurt (Oder), Germany (Nov. 2011 – Mar. 2012)**"
+          - "- Overseas Exchange Scholar Program"
+          - "- Designed highly optimized on-chip transformers for wideband input matching of UWB receiver using 0.25-μm SiGe BiCMOS technology"
 
       - institution: Kwangwoon University
         location: Seoul, South Korea
