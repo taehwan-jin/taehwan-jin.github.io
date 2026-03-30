@@ -32,6 +32,8 @@ After my Ph.D., I joined **Samsung Electronics (S.LSI)** and spent six years des
 
 In 2021, I moved to **Qualitas Semiconductor**, where I led the development of a **200 Gbps/4-channel PAM4 CMOS optical transceiver IC** (14nm FinFET) for data center interconnects and a **100 Gbps/4-channel NRZ SiGe BiCMOS optical transceiver IC** (180nm SiGe BiCMOS) for DP/HDMI. Additionally, as the **MIPI Task Force Leader**, I managed cross-functional groups for **C-PHY/D-PHY IP design services** (spanning 14nm FinFET to 2nm GAAFET), overseeing work allocation and project scheduling.
 
+**I am a system-oriented engineer who consistently adopts a top-down approach to tackle and optimize complex IC design challenges.**
+
 **Research Interests:** High-speed optical front-end, RF/analog IC design, low-noise amplifiers, and design automation (automated schematic and layout optimization).
 
 ---
@@ -48,11 +50,12 @@ In 2021, I moved to **Qualitas Semiconductor**, where I led the development of a
 * Implemented Electromagnetic (EM) solver simulations (EMX, Momentum) and verification environments.
 * Inductor synthesis using EMX Designer.
 * Proficiency in Cadence Virtuoso, Spectre, Spectre-AMS, and Maestro.
-* Hands-on design experience with Low Noise Amplifiers (LNA), high-speed Trans-Impedance Amplifiers (TIA), baseband OP-AMPs for active filters, Bandgap Reference (BGR), downconversion double-balanced passive mixers, DC Reference Voltage Generators, Power-On Reset (POR), input/output matching T-coils, and Single-to-Differential Baluns.
+* Hands-on design experience with Low Noise Amplifiers (LNA), Time-to-Digital Converter (TDC), high-speed Trans-Impedance Amplifiers (TIA), baseband OP-AMPs for active filters, Bandgap Reference (BGR), downconversion double-balanced passive mixers, DC Reference Voltage Generators, Power-On Reset (POR), input/output matching T-coils, and Single-to-Differential Baluns.
+* VCSEL/PD DC characterization
 * Led chip-top and IP-top integration (Floorplanning and various DesignKit integration).
 * Detailed technical analysis including small-signal, noise, and linearity (Volterra series) analysis.
 * Measurement of S-parameters using Vector Network Analyzers (VNA).
-* Noise Figure (NF) measurement using the Y-Factor method and Noise Figure Analyzers.
+* Noise Figure (NF) measurement using Noise Figure Analyzers (Y-Factor method)
 * Two-tone testing (IIP2, IIP3) using Signal Generators and Spectrum Analyzers.
 * Developed IIP2 calibration methods by adjusting mixer gate biasing with TX RF loopback two-tone signals.
 * Defined specifications for RF receiver Automated Test Equipment (ATE).
