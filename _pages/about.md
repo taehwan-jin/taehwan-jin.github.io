@@ -64,6 +64,7 @@ In 2021, I moved to **Qualitas Semiconductor**, where I led the development of a
 * ESD (HBM) robustness simulation and verification.
 
 #### Future Aspirations
-* Automation of schematic/layout design optimization.
-* Implementation of Test Element Group (TEG) for various de-embedding methods (Pad-Open-Short, etc.).
-* RF device model extraction.
+* Automation of schematic/layout design optimization
+* Implementation of Test Element Group (TEG) for various de-embedding methods (Pad-Open-Short, etc.)
+* RF device model extraction
+* Analog-to-Digital converter (ADC) design
