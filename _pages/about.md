@@ -39,30 +39,28 @@ In 2021, I moved to **Qualitas Semiconductor**, where I led the development of a
 ### What I’ve Done & What’s Next
 
 #### Fields of Expertise
-* RF/Optical front-end link budget
-* Hands-on design experience with TSMC(180nm), Dongbu(110nm), Samsung(Planar 28nm, FinFET 14nm/4nm), IHP(250nm SiGe BiCMOS)
-* Project leading experience with Samsung(FinFET 14nm/8nm/4nm, GAAFET 2nm), Tower semi(180nm SiGe BiCMOS) 
-* Orchestrating cross-functional groups (Digital Front-End, Physical Implementation, Full-custom Layout, Analog Design, Application Engineering, PCB design, Quality Assurance)
-* Establishment and update of PDKs and Ruledecks (DRC/LVS/ESD/etc.) by communicating with foundries
-* Establishment of Analog-Mixed-Signal (AMS) simulation (Synopsys VCS + PrimeSim XA) and verification
-* Establishment of Electromagnetic (EM) solver simulators (EMX, Momentum) and verification
-* Inductor synthesis using EMX Designer
-* Proficiency in Cadence Virtuoso, Spectre, Spectre-AMS, and Maestro
-* Hands-on design experience of Low Noise Amplifiers (LNA), high-speed Trans-Impedance Amplifiers (TIA), baseband OP-AMPs, Bandgap Reference (BGR), Downconversion double balanced passive mixers, DC Reference Voltage Generators, and Power-On Reset (POR), input/output matching T-coils, Single-to-Differential Balun
-* Role as Chip-top or IP-top lead (Floorplanning and various DesignKit integration)
-* Small-signal analysis
-* Noise analysis
-* Linearity analysis (Volterra series)
-* Measurement of S-parameters using Vector Network Analyzer (VNA)
-* Measurement of Noise Figure (NF) using NoiseFigure Analyzer (Y-Factor method)
-* Two-tone tests (IIP2, IIP3) using Signal Generator and Spectrum Analyzer
-* IIP2 Calibration method by adjusting mixer gate biasing with TX RF loopback two-tone signals
-* Receiver Automated Test Equipment (ATE) specification description
-* SystemVerilog modeling for analog circuits
-* Use of probe-stations for on-wafer measurement of S-parameters
-* ESD (HBM) robustness simulation
+* RF/Optical front-end link budget analysis.
+* Hands-on design experience with TSMC (180nm), Dongbu (110nm), Samsung (Planar 28nm, FinFET 14nm/4nm), and IHP (250nm SiGe BiCMOS).
+* Project leadership experience managing Samsung (FinFET 14nm/8nm/4nm, GAAFET 2nm) and Tower Semi (180nm SiGe BiCMOS) projects.
+* Orchestrating cross-functional teams (Digital Front-End, Physical Implementation, Full-custom Layout, Analog Design, Application Engineering, PCB Design, and Quality Assurance).
+* PDK and Ruledeck (DRC/LVS/ESD/etc.) establishment, updates, and GDS submission through direct foundry communication.
+* Established Analog-Mixed-Signal (AMS) simulation flows (Synopsys VCS + PrimeSim XA) and comprehensive verification.
+* Implemented Electromagnetic (EM) solver simulations (EMX, Momentum) and verification environments.
+* Inductor synthesis using EMX Designer.
+* Proficiency in Cadence Virtuoso, Spectre, Spectre-AMS, and Maestro.
+* Hands-on design experience with Low Noise Amplifiers (LNA), high-speed Trans-Impedance Amplifiers (TIA), baseband OP-AMPs for active filters, Bandgap Reference (BGR), downconversion double-balanced passive mixers, DC Reference Voltage Generators, Power-On Reset (POR), input/output matching T-coils, and Single-to-Differential Baluns.
+* Led chip-top and IP-top integration (Floorplanning and various DesignKit integration).
+* Detailed technical analysis including small-signal, noise, and linearity (Volterra series) analysis.
+* Measurement of S-parameters using Vector Network Analyzers (VNA).
+* Noise Figure (NF) measurement using the Y-Factor method and Noise Figure Analyzers.
+* Two-tone testing (IIP2, IIP3) using Signal Generators and Spectrum Analyzers.
+* Developed IIP2 calibration methods by adjusting mixer gate biasing with TX RF loopback two-tone signals.
+* Defined specifications for RF receiver Automated Test Equipment (ATE).
+* SystemVerilog modeling for analog circuits.
+* On-wafer measurement using probe-stations for S-parameter extraction.
+* ESD (HBM) robustness simulation and verification.
 
 #### Future Aspirations
-* Automation of schematic/layout design optimization
-* Implementation of Test Element Group (TEG) for various de-embedding methods (Pad-Open-Short, etc.)
-* RF device model extraction
+* Automation of schematic/layout design optimization.
+* Implementation of Test Element Group (TEG) for various de-embedding methods (Pad-Open-Short, etc.).
+* RF device model extraction.
