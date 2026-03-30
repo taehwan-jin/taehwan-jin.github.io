@@ -48,18 +48,18 @@ In 2021, I moved to **Qualitas Semiconductor**, where I led the development of a
 * Establishment of Electromagnetic (EM) solver simulators (EMX, Momentum) and verification
 * Inductor synthesis using EMX Designer
 * Proficiency in Cadence Virtuoso, Spectre, Spectre-AMS, and Maestro
-* Design of Low Noise Amplifiers (LNA), high-speed Trans-Impedance Amplifiers (TIA), baseband OP-AMPs, BGR, DC Reference Voltage Generators, and Power-On Reset (POR)
+* Hands-on design experience of Low Noise Amplifiers (LNA), high-speed Trans-Impedance Amplifiers (TIA), baseband OP-AMPs, Bandgap Reference (BGR), Downconversion double balanced passive mixers, DC Reference Voltage Generators, and Power-On Reset (POR), input/output matching T-coils, Single-to-Differential Balun
 * Role as Chip-top or IP-top lead (Floorplanning and various DesignKit integration)
 * Small-signal analysis
 * Noise analysis
 * Linearity analysis (Volterra series)
-* Measurement of S-parameters using Vector Network Analyzers (VNA)
-* Measurement of Noise Figure (NF) using the Y-Factor method
-* Two-tone tests (IIP2, IIP3) using Signal Generators and Spectrum Analyzers
-* IP2 Calibration by adjusting mixer gate biasing with loopback-injected TX signals
-* RF receiver Automated Test Equipment (ATE) specification description
+* Measurement of S-parameters using Vector Network Analyzer (VNA)
+* Measurement of Noise Figure (NF) using NoiseFigure Analyzer (Y-Factor method)
+* Two-tone tests (IIP2, IIP3) using Signal Generator and Spectrum Analyzer
+* IIP2 Calibration method by adjusting mixer gate biasing with TX RF loopback two-tone signals
+* Receiver Automated Test Equipment (ATE) specification description
 * SystemVerilog modeling for analog circuits
-* Use of probe-stations for measurement of S-parameters
+* Use of probe-stations for on-wafer measurement of S-parameters
 * ESD (HBM) robustness simulation
 
 #### Future Aspirations
