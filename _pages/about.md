@@ -43,7 +43,7 @@ In 2021, I moved to **Qualitas Semiconductor**, where I led the development of a
 * Project leadership experience managing IP design services for various clients using Samsung (FinFET 14nm/8nm/4nm, GAAFET 2nm) processes.
 * Orchestrating cross-functional teams (Digital Front-End, Physical Implementation, Full-custom Layout, Analog Circuit Design, Application Engineering, PCB Design, and Quality Assurance).
 * Hands-on design experience with TSMC (180nm), Dongbu (110nm), Samsung (Planar 28nm, FinFET 14nm/4nm), IHP (250nm SiGe BiCMOS), and Tower Semiconductor (180nm SiGe BiCMOS) processes.
-* Led chip-top and IP-top integration (Floorplanning and various DesignKit integration).
+* Led chip-top and IP-top integration and verification (Floorplanning, IP assembly, and top-level simulation).
 * RF/Optical front-end link budget analysis.
 * Circuit design expertise including Low Noise Amplifiers (LNA), Time-to-Digital Converters (TDC), IR-UWB transmitters, high-speed Trans-Impedance Amplifiers (TIA), baseband OP-AMPs for active filters, Bandgap Reference (BGR), downconverting double-balanced passive mixers, DC Reference Voltage Generators, Power-On Reset (POR), input/output matching T-coils, and Single-to-Differential Baluns.
 * Impedance matching and Noise matching.
