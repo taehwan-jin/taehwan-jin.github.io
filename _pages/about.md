@@ -59,10 +59,11 @@ In 2021, I moved to **Qualitas Semiconductor**, where I led the development of a
 * Two-tone testing (IIP2, IIP3) using Signal Generators and Spectrum Analyzers.
 * Developed IIP2 calibration methods by adjusting mixer gate biasing with TX RF loopback two-tone signals.
 * Defined specifications for RF receiver Automated Test Equipment (ATE).
-* SystemVerilog modeling for analog circuits.
+* SystemVerilog modeling of analog circuit.
 * On-wafer measurement using probe-stations for S-parameter extraction.
 * ESD (HBM) robustness simulation and verification.
 * Evaluation PCB board design (schematic & layout) using PADS.
+* Impedance matching and Noise matching.
 
 #### Things I'd Like to Try Someday
 * Automation of schematic/layout design optimization
