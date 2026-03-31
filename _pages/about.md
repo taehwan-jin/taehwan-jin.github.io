@@ -40,29 +40,29 @@ In 2021, I moved to **Qualitas Semiconductor**, where I led the development of a
 
 ### What I've Done & What I Can Do
 * Extensive experience in the design and development of mass-production RFIC receivers.
-* RF/Optical front-end link budget analysis.
-* Hands-on design experience with TSMC (180nm), Dongbu (110nm), Samsung (Planar 28nm, FinFET 14nm/4nm), IHP (250nm SiGe BiCMOS), and Tower Semiconductor (180nm SiGe BiCMOS) processes.
 * Project leadership experience managing IP design services for various clients using Samsung (FinFET 14nm/8nm/4nm, GAAFET 2nm) processes.
 * Orchestrating cross-functional teams (Digital Front-End, Physical Implementation, Full-custom Layout, Analog Circuit Design, Application Engineering, PCB Design, and Quality Assurance).
+* Hands-on design experience with TSMC (180nm), Dongbu (110nm), Samsung (Planar 28nm, FinFET 14nm/4nm), IHP (250nm SiGe BiCMOS), and Tower Semiconductor (180nm SiGe BiCMOS) processes.
+* Led chip-top and IP-top integration (Floorplanning and various DesignKit integration).
+* RF/Optical front-end link budget analysis.
+* Circuit design expertise including Low Noise Amplifiers (LNA), Time-to-Digital Converters (TDC), IR-UWB transmitters, high-speed Trans-Impedance Amplifiers (TIA), baseband OP-AMPs for active filters, Bandgap Reference (BGR), downconverting double-balanced passive mixers, DC Reference Voltage Generators, Power-On Reset (POR), input/output matching T-coils, and Single-to-Differential Baluns.
+* Impedance matching and Noise matching.
 * PDK and Ruledeck (DRC/LVS/ESD/etc.) establishment, updates, and GDS submission through direct foundry communication.
 * Established Analog-Mixed-Signal (AMS) simulation flows (Synopsys VCS + PrimeSim XA) and comprehensive verification.
 * Established Electromagnetic (EM) solver simulation tools (EMX, Momentum) and verification environments.
-* Inductor synthesis using EMX Designer.
 * Proficiency in Cadence Virtuoso, Spectre, Spectre-AMS, and Maestro.
-* Circuit design expertise including Low Noise Amplifiers (LNA), Time-to-Digital Converters (TDC), IR-UWB transmitters, high-speed Trans-Impedance Amplifiers (TIA), baseband OP-AMPs for active filters, Bandgap Reference (BGR), downconverting double-balanced passive mixers, DC Reference Voltage Generators, Power-On Reset (POR), input/output matching T-coils, and Single-to-Differential Baluns.
-* DC, RF, and optical power characterization of VCSELs and PDs.
-* Led chip-top and IP-top integration (Floorplanning and various DesignKit integration).
 * Detailed technical analysis including small-signal, noise, and linearity (Volterra series) analysis.
-* Measurement of S-parameters using Vector Network Analyzers (VNA).
-* Noise Figure (NF) measurement using Noise Figure Analyzers (Y-Factor method)
-* Two-tone testing (IIP2, IIP3) using Signal Generators and Spectrum Analyzers.
-* IIP2 calibration by adjusting mixer gate biasing with TX RF loopback two-tone signals.
-* Defined specifications for RF receiver Automated Test Equipment (ATE).
+* Inductor synthesis using EMX Designer.
 * SystemVerilog modeling of analog circuit.
-* On-wafer measurement using probe-stations for S-parameter extraction.
+* IIP2 calibration by adjusting mixer gate biasing with TX RF loopback two-tone signals.
 * ESD (HBM) robustness simulation and verification.
+* Defined specifications for RF receiver Automated Test Equipment (ATE).
+* DC, RF, and optical power characterization of VCSELs and PDs.
+* On-wafer measurement using probe-stations for S-parameter extraction.
+* Measurement of S-parameters using Vector Network Analyzers (VNA).
+* Noise Figure (NF) measurement using Noise Figure Analyzers (Y-Factor method).
+* Two-tone testing (IIP2, IIP3) using Signal Generators and Spectrum Analyzers.
 * Evaluation PCB board design (schematic & layout) using PADS.
-* Impedance matching and Noise matching.
 
 ### Things I'd Like to Try Someday
 * Automation of schematic/layout design optimization
