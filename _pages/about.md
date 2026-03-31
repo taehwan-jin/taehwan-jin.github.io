@@ -38,7 +38,7 @@ In 2021, I moved to **Qualitas Semiconductor**, where I led the development of a
 
 ---
 
-### What I’ve Done & What’s Next
+### What I’ve Done & Things I'd Like to Try Someday
 
 #### What I've Done
 * RF/Optical front-end link budget analysis.
@@ -64,7 +64,7 @@ In 2021, I moved to **Qualitas Semiconductor**, where I led the development of a
 * ESD (HBM) robustness simulation and verification.
 * Evaluation PCB board design (schematic & layout) using PADS.
 
-#### What's Next
+#### Things I'd Like to Try Someday
 * Automation of schematic/layout design optimization
 * Implementation of Test Element Group (TEG) for various de-embedding methods (Pad-Open-Short, etc.)
 * RF device model parameter extraction
