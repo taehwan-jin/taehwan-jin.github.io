@@ -69,6 +69,13 @@ horizontal: false
     - Designed high-speed Trans-Impedance Amplifier (TIA) in optical receiver IC
     - Designed common analog circuits in optical transceiver ICs
       - POR, BGR, Vref, Free-running ring oscillator
+    <br>
+    <details>
+      <summary>📸 Click to view eye quality</summary>
+      <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
+        <img src="/assets/img/ioet050x_eye_quality.gif" style="width: 380px; height: 280px; object-fit: contain; border-radius: 8px; border: 1px solid #ddd; background: #fff;">
+      </div>
+    </details>
    
 
 <br>
