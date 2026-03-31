@@ -37,6 +37,16 @@ horizontal: false
     - Verified IC top
       - I2C interface protocol with Verilog model using Spectre-AMS
     - Designed high-speed Trans-Impedance Amplifier (TIA) in optical receiver IC
+    <br>
+    <details>
+      <summary>📸 Click to view QSOD250x Product & Test Environments</summary>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+        <img src="/assets/img/qsod250x_trx_modules.webp" width="48%">
+        <img src="/assets/img/qsod250x_trx_modules_test1.webp" width="48%">
+        <img src="/assets/img/qsod250x_dut_link_test_env.webp" width="48%">
+        <img src="/assets/img/qsod250x_dut_link_test_eye_quality.webp" width="48%">
+      </div>
+    </details>
 
 <br>
 
