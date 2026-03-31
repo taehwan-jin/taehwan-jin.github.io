@@ -40,7 +40,7 @@ In 2021, I moved to **Qualitas Semiconductor**, where I led the development of a
 
 ### What I’ve Done & Things I'd Like to Try Someday
 
-#### What I've Done
+#### What I've Done & What I Can Do
 * RF/Optical front-end link budget analysis.
 * Hands-on design experience with TSMC (180nm), Dongbu (110nm), Samsung (Planar 28nm, FinFET 14nm/4nm), IHP (250nm SiGe BiCMOS), and Tower Semiconductor (180nm SiGe BiCMOS) processes.
 * Project leadership experience managing IP design services for various clients using Samsung (FinFET 14nm/8nm/4nm, GAAFET 2nm) processes.
