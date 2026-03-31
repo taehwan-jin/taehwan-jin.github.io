@@ -72,6 +72,13 @@ cv:
           - "Served as designer for cellular receiver IP top and front-end sub-blocks"
           - "Proficient in advanced CMOS processes: 28nm / 14nm FinFET"
 
+      - company: Korea Institute of Science and Technology (KIST)
+        position: Intern (Nano Device Research Center)
+        location: Seoul, South Korea
+        start_date: Feb. 2007
+        end_date: Nov. 2007
+        summary: "Quantum dot growth on GaAs wafer using Molecular Beam Epitaxy"
+
     Skills:
       - name: EDA Tools
         level: Expert

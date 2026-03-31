@@ -40,7 +40,7 @@ In 2021, I moved to **Qualitas Semiconductor**, where I led the development of a
 
 ### What I’ve Done & What’s Next
 
-#### Fields of Expertise
+#### What I've Done
 * RF/Optical front-end link budget analysis.
 * Hands-on design experience with TSMC (180nm), Dongbu (110nm), Samsung (Planar 28nm, FinFET 14nm/4nm), IHP (250nm SiGe BiCMOS), and Tower Semiconductor (180nm SiGe BiCMOS) processes.
 * Project leadership experience managing IP design services for various clients using Samsung (FinFET 14nm/8nm/4nm, GAAFET 2nm) processes.
@@ -62,9 +62,10 @@ In 2021, I moved to **Qualitas Semiconductor**, where I led the development of a
 * SystemVerilog modeling for analog circuits.
 * On-wafer measurement using probe-stations for S-parameter extraction.
 * ESD (HBM) robustness simulation and verification.
+* Evaluation PCB board design (schematic & layout) using PADS.
 
-#### Future Aspirations
+#### What's Next
 * Automation of schematic/layout design optimization
 * Implementation of Test Element Group (TEG) for various de-embedding methods (Pad-Open-Short, etc.)
-* RF device model extraction
+* RF device model parameter extraction
 * Analog-to-Digital converter (ADC) design
