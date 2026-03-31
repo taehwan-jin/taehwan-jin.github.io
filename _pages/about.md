@@ -67,5 +67,5 @@ In 2021, I moved to **Qualitas Semiconductor**, where I led the development of a
 ### Things I'd Like to Try Someday
 * Automation of schematic/layout design optimization
 * Implementation of Test Element Group (TEG) for various de-embedding methods (Pad-Open-Short, etc.)
-* RF device model parameter extraction
+* RF active device model parameter extraction
 * Analog-to-Digital converter (ADC) design
