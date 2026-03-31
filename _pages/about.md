@@ -39,6 +39,7 @@ In 2021, I moved to **Qualitas Semiconductor**, where I led the development of a
 ---
 
 ### What I've Done & What I Can Do
+* Extensive experience in the design and development of mass-production RFIC receivers.
 * RF/Optical front-end link budget analysis.
 * Hands-on design experience with TSMC (180nm), Dongbu (110nm), Samsung (Planar 28nm, FinFET 14nm/4nm), IHP (250nm SiGe BiCMOS), and Tower Semiconductor (180nm SiGe BiCMOS) processes.
 * Project leadership experience managing IP design services for various clients using Samsung (FinFET 14nm/8nm/4nm, GAAFET 2nm) processes.
