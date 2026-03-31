@@ -47,6 +47,7 @@ horizontal: false
     - 200 Gbps/4-Channel PAM4 CMOS Optical Front-End Transceiver ICs
     - *Application:* Active Optical Cable for data center
     - *Process:* Samsung Foundry, 14nm FinFET CMOS (SF_LN14LPU)
+    - Optical link environment research and link budget analysis
     - Verified IC top
       - I2C interface protocol with full-spice model for Special Function Register
       - ESD(HBM) 2kV simulation verification
