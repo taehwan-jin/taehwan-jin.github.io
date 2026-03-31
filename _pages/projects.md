@@ -40,11 +40,11 @@ horizontal: false
     <br>
     <details>
       <summary>📸 Click to view QSOD250x Product & Test Environments</summary>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-        <img src="/assets/img/qsod250x_trx_modules.webp" width="48%">
-        <img src="/assets/img/qsod250x_trx_modules_test1.webp" width="48%">
-        <img src="/assets/img/qsod250x_dut_link_test_env.webp" width="48%">
-        <img src="/assets/img/qsod250x_dut_link_test_eye_quality.webp" width="48%">
+      <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
+        <img src="/assets/img/qsod250x_trx_modules.webp" style="width: 380px; height: 280px; object-fit: contain; border-radius: 8px; border: 1px solid #ddd; background: #fff;">
+        <img src="/assets/img/qsod250x_trx_modules_test1.webp" style="width: 380px; height: 280px; object-fit: contain; border-radius: 8px; border: 1px solid #ddd; background: #fff;">
+        <img src="/assets/img/qsod250x_dut_link_test_env.webp" style="width: 380px; height: 280px; object-fit: contain; border-radius: 8px; border: 1px solid #ddd; background: #fff;">
+        <img src="/assets/img/qsod250x_dut_link_test_eye_quality.webp" style="width: 380px; height: 280px; object-fit: contain; border-radius: 8px; border: 1px solid #ddd; background: #fff;">
       </div>
     </details>
 
