@@ -49,7 +49,7 @@ In 2021, I moved to **Qualitas Semiconductor**, where I led the development of a
 * Inductor synthesis using EMX Designer.
 * Proficiency in Cadence Virtuoso, Spectre, Spectre-AMS, and Maestro.
 * Circuit design expertise including Low Noise Amplifiers (LNA), Time-to-Digital Converters (TDC), IR-UWB transmitters, high-speed Trans-Impedance Amplifiers (TIA), baseband OP-AMPs for active filters, Bandgap Reference (BGR), downconverting double-balanced passive mixers, DC Reference Voltage Generators, Power-On Reset (POR), input/output matching T-coils, and Single-to-Differential Baluns.
-* VCSEL/PD DC and Optical Power characterization
+* DC, RF, and optical power characterization of VCSELs and PDs.
 * Led chip-top and IP-top integration (Floorplanning and various DesignKit integration).
 * Detailed technical analysis including small-signal, noise, and linearity (Volterra series) analysis.
 * Measurement of S-parameters using Vector Network Analyzers (VNA).
