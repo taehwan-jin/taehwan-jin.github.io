@@ -55,7 +55,7 @@ In 2021, I moved to **Qualitas Semiconductor**, where I led the development of a
 * Measurement of S-parameters using Vector Network Analyzers (VNA).
 * Noise Figure (NF) measurement using Noise Figure Analyzers (Y-Factor method)
 * Two-tone testing (IIP2, IIP3) using Signal Generators and Spectrum Analyzers.
-* Developed IIP2 calibration methods by adjusting mixer gate biasing with TX RF loopback two-tone signals.
+* IIP2 calibration by adjusting mixer gate biasing with TX RF loopback two-tone signals.
 * Defined specifications for RF receiver Automated Test Equipment (ATE).
 * SystemVerilog modeling of analog circuit.
 * On-wafer measurement using probe-stations for S-parameter extraction.
