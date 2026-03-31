@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>Seongnam, Gyeonggi-do, South Korea</p>
     <p>83t.jin@gmail.com</p>
+    <p>🇸🇪 Valid Residence & Work Permit in Sweden</p>
 
 selected_papers: true
 social: true
