@@ -30,6 +30,7 @@ horizontal: false
 ### 2023–2024
 - **Qualitas Semiconductor / Optical Interconnect Team**
   - Led Optical Front-End IC Design group
+  - PDK, ruledeck establishment and update
   - **QSOD250x (Engineering Sample)**
     - 100 Gbps/4-Channel NRZ SiGe BiCMOS Optical Front-End Transceiver ICs
     - *Application:* Active Optical Cable for HDMI/DisplayPort combo solutions
@@ -53,6 +54,7 @@ horizontal: false
 ### 2021–2022
 - **Qualitas Semiconductor / Optical Interconnect Team**
   - Led Optical Front-End IC Design group
+  - PDK, ruledeck establishment and update
   - **IOET050x (Government-funded R&D Project)**
     - 200 Gbps/4-Channel PAM4 CMOS Optical Front-End Transceiver ICs
     - *Application:* Active Optical Cable for data center
