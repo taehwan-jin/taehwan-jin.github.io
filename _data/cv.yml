@@ -77,7 +77,7 @@ cv:
         location: Seoul, South Korea
         start_date: Feb. 2007
         end_date: Nov. 2007
-        summary: "Quantum dot growth on GaAs wafer using Molecular Beam Epitaxy"
+        summary: "Quantum dot growth on GaAs substrate using Molecular Beam Epitaxy"
 
     Skills:
       - name: EDA Tools
