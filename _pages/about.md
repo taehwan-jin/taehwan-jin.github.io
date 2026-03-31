@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Seongnam, Gyeonggi-do, South Korea</p>
     <p>83t.jin@gmail.com</p>
-    <p>🇸🇪 Valid Residence & Work Permit in Sweden</p>
+    <p>🇸🇪 <b>Valid Residence & Work Permit in Sweden</b></p>
 
 selected_papers: true
 social: true
@@ -35,7 +35,7 @@ In 2021, I moved to Qualitas Semiconductor, where I led the development of a 200
 
 **I am a system-oriented engineer who consistently adopts a top-down approach to tackle and optimize complex IC design challenges.**
 
-Research Interests: High-speed optical front-end, RF/analog IC design, low-noise amplifiers, and design automation (automated schematic and layout optimization).
+**Research Interests:** High-speed optical front-end, RF/analog IC design, low-noise amplifiers, and design automation (automated schematic and layout optimization).
 
 ---
 
