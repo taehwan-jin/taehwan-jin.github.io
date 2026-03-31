@@ -50,7 +50,7 @@ In 2021, I moved to **Qualitas Semiconductor**, where I led the development of a
 * PDK and Ruledeck (DRC/LVS/ESD/etc.) establishment, updates, and GDS submission through direct foundry communication.
 * Established Analog-Mixed-Signal (AMS) simulation flows (Synopsys VCS + PrimeSim XA) and comprehensive verification.
 * Established Electromagnetic (EM) solver simulation tools (EMX, Momentum) and verification environments.
-* Proficiency in Cadence Virtuoso, Spectre, Spectre-AMS, and Maestro.
+* Proficiency in Cadence Virtuoso, Spectre, Spectre-AMS, Maestro, and Keysight ADS.
 * Detailed technical analysis including small-signal, noise, and linearity (Volterra series) analysis.
 * Inductor synthesis using EMX Designer.
 * SystemVerilog modeling of analog circuit.
