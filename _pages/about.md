@@ -65,7 +65,7 @@ In 2021, I moved to **Qualitas Semiconductor**, where I led the development of a
 * Evaluation PCB board design (schematic & layout) using PADS.
 
 ### Things I'd Like to Try Someday
-* Automation of schematic/layout design optimization
+* EDA flow automation · Analog layout generation · Schematic-driven design
 * Implementation of Test Element Group (TEG) for various de-embedding methods (Pad-Open-Short, etc.)
 * RF active device model parameter extraction
 * Analog-to-Digital converter (ADC) design
