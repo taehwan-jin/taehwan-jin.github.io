@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 
-### 2025
+### 2025-2026.02
 - **Qualitas Semiconductor / IP Development Team**
   - **MIPI Taskforce Leader**
     - *Process:* 14nm, 8nm, 5nm, 4nm FinFET, 2nm GAAFET
