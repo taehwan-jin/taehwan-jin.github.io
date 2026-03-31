@@ -19,7 +19,7 @@ horizontal: false
     - Conducted Analog-Mixed Signal simulation for test vector verification
     - Developed Qualitas's own licensing IP via MPW
     
-  - **High speed analog front-end / Multi-Standard SerDes**
+  - **High-speed analog front-end / Multi-Standard SerDes**
     - *Process:* Samsung Foundry 4nm FinFET CMOS (SF4)
     - Designed T-coils for Input/Output matching in high-speed AFE
     - Designed DC reference voltage cleaning circuits for Current-Controlled Oscillators (CCO)
@@ -35,7 +35,7 @@ horizontal: false
     - *Application:* Active Optical Cable for HDMI/DisplayPort combo solutions
     - *Process:* Tower Semiconductor, SiGe BiCMOS 180nm (sbc18s5)
     - Verified IC top
-      - I2C interface protocol with verilog model using Spectre-AMS
+      - I2C interface protocol with Verilog model using Spectre-AMS
     - Designed high-speed Trans-Impedance Amplifier (TIA) in optical receiver IC
 
 <br>
@@ -84,6 +84,7 @@ horizontal: false
     - *Process:* 28nm CMOS RF
     - *Package:* FC-FBGA
     - Senior Designer for receiver IP top
+      - IP floorplanning
     - Designed low-band LNA
 
 <br>
@@ -99,7 +100,7 @@ horizontal: false
 
 ### 2016
 - **Samsung Electronics Co. (S.LSI) / RF Development Team**
-  - **S955** (Representative product: Galaxy S8 plus)
+  - RFIC: **S955** (Representative product: Galaxy S8 plus)
     - *Process:* 14nm FinFET CMOS RF
     - *Package:* WLP
     - Designed a down-conversion mixer and a baseband op-amp for 3G/LTE TIA
@@ -108,11 +109,12 @@ horizontal: false
 
 ### 2015
 - **Samsung Electronics Co. (S.LSI) / RF Development Team**
-    - RFIC: **S955** (Representative product: Galaxy S8 plus)
-      - *Process:* 14nm FinFET CMOS RF
-      - *Package:* WLP
-      - Designed single-to-differential LNA for GNSS/Glonas
-    - RFIC: **S935** (Representative product: Galaxy S7)
-      - *Process:* 28nm Planar CMOS RF
-      - *Package:* WL-CSP
-      - Designed low-band balun
+  - RFIC: **S955** (Representative product: Galaxy S8 plus)
+    - *Process:* 14nm FinFET CMOS RF
+    - *Package:* WLP
+    - Designed single-to-differential LNA for GNSS/GLONASS
+
+  - RFIC: **S935** (Representative product: Galaxy S7)
+    - *Process:* 28nm Planar CMOS RF
+    - *Package:* WL-CSP
+    - Designed low-band balun
